@@ -1,1 +1,2 @@
-print("Hello, CINF405!")
+for i in range(5):
+  print("Hello, CINF405!")
